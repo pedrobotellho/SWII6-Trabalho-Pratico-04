@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\bin\Debug\net7.0\SWII6_Models.deps.json
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\bin\Debug\net7.0\SWII6_Models.dll
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\bin\Debug\net7.0\SWII6_Models.pdb
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\SWII6_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\SWII6_Models.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\SWII6_Models.AssemblyInfo.cs
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\SWII6_Models.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\SWII6_Models.dll
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\refint\SWII6_Models.dll
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\SWII6_Models.pdb
+C:\Users\mathe\Documents\Faculdade\Pedro\SWII6_Models\obj\Debug\net7.0\ref\SWII6_Models.dll
